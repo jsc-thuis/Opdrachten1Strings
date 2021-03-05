@@ -4,3 +4,4 @@ public class Test {
         System.out.println("We testen de methodes uit de klasse DocTester... ");
     }
 }
+
